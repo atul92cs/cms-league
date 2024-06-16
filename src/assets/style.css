@@ -1,0 +1,52 @@
+
+.menu-container{
+    width: 100vh;
+}
+
+
+.login-form{
+    border: 1.5px solid black;
+    border-radius: 2.5px;
+    padding: 5vh 5vw 5vh 5vw;
+}
+.login-form input{
+    width: 15vw;
+    height: 7.5vh;
+}
+.admin-table{
+    margin-top: 5vh;
+}
+.date-picker{
+    background-color: white;
+    color: black;
+    border-radius:3.5px ;
+    border: 1.5px solid lightgray;
+     width: 34vw;
+     height: 8.5vh;
+    display: block;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.tournament-form-picture
+{
+    width: 20vw;
+    height: 40vh;
+    margin:5vh 5vw 5vh 5vw;
+}
+
+.dashboard-count-section{
+    display: flex;
+  flex-direction: row;
+  
+}
+
+.dashboard-flex-item{
+    flex: 50%;
+    text-align: center;
+    margin: 32px;
+    border: black solid 1.5px;
+    padding: 56px;
+    width: 216px;
+    height: auto;
+}

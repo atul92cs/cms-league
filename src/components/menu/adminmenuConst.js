@@ -1,0 +1,27 @@
+export const adminMenu=[
+    {
+        id:1,
+        name:'Company',
+        link:'/company'
+    },
+    {
+        id:2,
+        name:'Games',
+        link:'/game'
+    },
+    {
+        id:3,
+        name:'Tournament',
+        link:'/tournament'
+    },
+    {
+        id:4,
+        name:'Teams',
+        link:'/team'
+    },
+    {
+        id:5,
+        name:'Prizes',
+        link:'/prize'
+    }
+];
